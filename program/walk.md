@@ -10,7 +10,10 @@
 
 ![](./walk.png)
 
-プロジェクト： https://makecode.microbit.org/_PJUbJ12o1bog
+* 変数`歩数`、`合計`、`回数`、`平均`、`幅`、を作るよ
+* むらさき色の`整数の÷`は`計算`メニューの`平方根`を使うよ
+
+プロジェクト： https://makecode.microbit.org/_JiMMT913PfKD
 
 ## 作り方
 
